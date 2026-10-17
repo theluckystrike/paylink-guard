@@ -1,0 +1,1 @@
+{"tool":"create_payment_link","arguments":{"chain":"base","asset":"USDC","recipient":"0x1111111111111111111111111111111111111111","amount":"19.99","label":"Demo Coffee","message":"Invoice 1001"}}
