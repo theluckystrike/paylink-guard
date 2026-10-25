@@ -1,5 +1,6 @@
 {
   "name": "paylink-guard",
+  "repository": {"type": "git", "url": "theluckystrike/paylink-guard.git"},
   "version": "0.1.0",
   "private": true,
   "type": "module",
